@@ -1,0 +1,15 @@
+C:\Business\TwinEdit\TwinEdit\bin\Debug\TwinEdit.exe.config
+C:\Business\TwinEdit\TwinEdit\bin\Debug\TwinEdit.exe
+C:\Business\TwinEdit\TwinEdit\bin\Debug\TwinEdit.pdb
+C:\Business\TwinEdit\TwinEdit\bin\Debug\FastColoredTextBox.dll
+C:\Business\TwinEdit\TwinEdit\obj\Debug\TwinEdit.csprojResolveAssemblyReference.cache
+C:\Business\TwinEdit\TwinEdit\obj\Debug\TwinEdit.Categories.resources
+C:\Business\TwinEdit\TwinEdit\obj\Debug\TwinEdit.MainForm.resources
+C:\Business\TwinEdit\TwinEdit\obj\Debug\TwinEdit.PassageEditor.resources
+C:\Business\TwinEdit\TwinEdit\obj\Debug\TwinEdit.PassageInfoUI.resources
+C:\Business\TwinEdit\TwinEdit\obj\Debug\TwinEdit.Properties.Resources.resources
+C:\Business\TwinEdit\TwinEdit\obj\Debug\TwinEdit.csproj.GenerateResource.Cache
+C:\Business\TwinEdit\TwinEdit\obj\Debug\TwinEdit.exe
+C:\Business\TwinEdit\TwinEdit\obj\Debug\TwinEdit.pdb
+C:\Business\TwinEdit\TwinEdit\obj\Debug\TwinEdit.AddEditProject.resources
+C:\Business\TwinEdit\TwinEdit\obj\Debug\TwinEdit.SettingsUI.resources
